@@ -1,2 +1,3 @@
-# sdfsgfdfsgfdg-8f4f2b4c
-Repository for simple frontend 2
+# simple frontend 2
+
+input box on front of html page with save button and input text shows up below
